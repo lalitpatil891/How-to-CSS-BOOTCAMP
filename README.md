@@ -7,4 +7,6 @@
 
 ![2](https://github.com/lalitpatil891/How-to-CSS-BOOTCAMP/assets/114104065/41bffe2f-6b7c-44ad-a1b9-4fc4e6192a00)
 
+![3](https://github.com/lalitpatil891/How-to-CSS-BOOTCAMP/blob/main/How-to-CSS-BOOTCAMP/Assignment%202/Task-1/Task-1%20output.png?raw=true)
+
 
